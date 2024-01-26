@@ -1,4 +1,4 @@
-# Word-Craft (Challenge #19)
+# Word-Craft (Challenge #19 - PWA)
 
 ## Table of Contents
 
