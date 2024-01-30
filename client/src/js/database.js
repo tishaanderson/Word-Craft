@@ -24,7 +24,7 @@ export const putDb = async (content) => {
 }
 
 // TODO: Add logic for a method that gets all the content from the database
-export const getOneDb = async (id) => {
+export const getDb = async (id) => {
   console.log('GET one from the database');
   const jateDb = await openDB('jate', 1);
   const tx = jateDb.transaction('jate', 'readonly');
